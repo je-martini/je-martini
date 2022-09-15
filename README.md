@@ -37,9 +37,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Jesus's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=je-martini&show_icons=true&hide_border=true" />
+  <img style="border-radius: 5px; margin-bottom: 5px" width="240px" height="240px" align="left" alt="Jesus's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=je-martini&show_icons=true&hide_border=true" />
 
-</details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
