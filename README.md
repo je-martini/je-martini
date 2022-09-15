@@ -1,6 +1,6 @@
 ### Hello World, I'm Jesus Martini  👋
 
- <img align="right" alt="GIF" src="https://github.com/je-martini/je-martini/blob/main/coding.gif" width="430" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/je-martini/je-martini/blob/main/coding.gif" width="600" height="320" />
 
 
 ## I'm a Husband, Son, Developer, Creator!!
