@@ -37,7 +37,7 @@
 <br />
 ---
 
-  <img style="border-radius: 5px; margin-bottom: 5px" align="left" alt="Jesus's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=je-martini&show_icons=true&hide_border=true" />
+  <img style="border-radius: 5px; margin-bottom: 5px" align="left" alt="Jesus's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=je-martini&show_icons=true&hide_border=true&hide=prs,issues" />
 
 
 [linkedin]: https://www.linkedin.com/in/jesus-martini/
