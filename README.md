@@ -1,6 +1,6 @@
 ### Hello World, I'm Jesus Martini  👋
 
- <img align="right" alt="GIF" src="https://github.com/je-martini/je-martini/blob/main/coding.gif" width="600" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/je-martini/je-martini/blob/main/coding.gif" width="100%" height="320" />
 
 
 ## I'm a Husband, Son, Developer, Creator!!
@@ -18,8 +18,8 @@
 
 <br />
 
-### Languages and Tools:
-
+### Languages and Tools
+<div>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -29,14 +29,16 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+ </div>
+
+<img style="border-radius: 5px" align="rigth" alt="Jesus's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=je-martini" />
+
 
 <br />
 <br />
 ---
 
   <img style="border-radius: 5px; margin-bottom: 5px" align="left" alt="Jesus's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=je-martini&show_icons=true&hide_border=true" />
-
-<img style="border-radius: 5px" align="rigth" alt="Jesus's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=je-martini" />
 
 
 [linkedin]: https://www.linkedin.com/in/jesus-martini/
