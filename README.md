@@ -32,7 +32,7 @@
 ---
  
 
-<img style="border-radius: 5px" align="rigth" alt="Jesus's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=je-martini&theme=tokyonight" />
+<img style="border-radius: 5px" align="rigth" alt="Jesus's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=je-martini&theme=tokyonight&hide_border=true" />
 
 <br />
 ---
